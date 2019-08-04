@@ -2,7 +2,7 @@
 A simple interactive UI to display a list of an arbitrary user-specified organization's GitHub projects ranked by forks, watchers, or stars.
 ### Running this App
 ```
-git clone: 
+git clone: https://github.com/chintan8195/go-links.git
 
 ## You need npm installed to run this app locally
 
