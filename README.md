@@ -3,7 +3,7 @@ A simple interactive UI to display a list of an arbitrary user-specified organiz
 ### Running this App
 ```
 git clone https://github.com/chintan8195/go-links.git
-
+cd go-links
 ## You need npm installed to run this app locally
 
 ## To install all the dependencies:
