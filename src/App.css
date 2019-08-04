@@ -1,0 +1,36 @@
+.title {
+  text-align: center;
+}
+
+.App-logo {
+  padding: 1rem;
+}
+
+.main {
+  padding: 1rem;
+}
+
+.results {
+  padding: 1rem;
+}
+
+.commits {
+  float: right;
+}
+
+.error {
+  text-align: center;
+  color: red;
+}
+
+.loading {
+  text-align: center;
+}
+
+.order-by-anchor {
+  cursor: pointer;
+}
+
+.order-by-anchor.selected{
+  color: #007bff !important;
+}
