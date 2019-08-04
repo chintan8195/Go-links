@@ -2,10 +2,9 @@
 A simple interactive UI to display a list of an arbitrary user-specified organization's GitHub projects ranked by forks, watchers, or stars.
 ### Running this App
 ```
-git clone 
+git clone: 
 
-## npm should be installed on the device
-
+## You need npm installed to run this app locally
 
 ## To install all the dependencies:
 npm install
